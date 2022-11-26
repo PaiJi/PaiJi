@@ -10,7 +10,7 @@ I am JiPai, Fullstack Web Developer from shanghai/china.
 My quest is to deliver an interface with a great interaction experience and elegant UI.
 
 <a href="https://github.com/PaiJi">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=400" />
 </a>
 <a href="https://github.com/PaiJi">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiji&layout=compact" />
