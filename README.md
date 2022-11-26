@@ -1,6 +1,6 @@
 # 🥳 Nice to meet you!
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/PaiJi">
 <img align="" src="https://wakatime.com/badge/user/71a00d57-dfa4-49b5-b409-9a2b8c0bcc88.svg?style=for-the-badge" />
 </a>
 
