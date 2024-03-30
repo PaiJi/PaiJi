@@ -36,7 +36,7 @@ I am a fullstack developer, coding some interesting little things here.
 ![](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ![](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql)
