@@ -1,63 +1,78 @@
-# 🥳 Nice to meet you!
+<p align="center">
+  <samp>
+    <a href="https://www.jipai.moe">me</a> .
+    <a href="https://blog.jipai.moe">blog</a> .
+    <a href="https://knowledgebase.jipai.moe">knowledgebase</a> .
+    <a href="https://www.jipai.moe/labs">projects</a> .
+    <a href="https://twitter.com/jipairamen">twitter</a> .
+    <a href="https://acg.mn/@jipai">mastodon</a> .
+    <a href="https://bsky.app/profile/jipai.bsky.social">bluesky</a>
+  </samp>
+</p>
 
+
+
+### Hi there 👋  
 <a href="https://github.com/PaiJi">
-<img align="" src="https://wakatime.com/badge/user/71a00d57-dfa4-49b5-b409-9a2b8c0bcc88.svg?style=for-the-badge" />
+<img src="https://wakatime.com/badge/user/71a00d57-dfa4-49b5-b409-9a2b8c0bcc88.svg?style=flat-square" />
 </a>
 
-### Hi there 👋
-
-I am JiPai, Fullstack Web Developer from shanghai/china.  
-My quest is to deliver an interface with a great interaction experience and elegant UI.
-
 <a href="https://github.com/PaiJi">
-<img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=400" />
-</a>
-<a href="https://github.com/PaiJi">
-  <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=paiji&layout=compact&hide=vue,php" />
+<img align="right" src="https://github-readme-stats-livid-mu.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=500&hide_border=true&hide_title=true" />
 </a>
 
-### 🔨 Code with
+🥳 Nice to meet you!  
+I am a fullstack developer, coding some interesting little things here.
 
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+
+
+#### 🔨 Code with
+
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
 
-![](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Redux-764ABC?logo=react&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![](https://img.shields.io/badge/-React_Native-45b8d8?logo=react&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Electron-47848F?logo=electron&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
-![](https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 
-![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-vscode-007ACC?logo=VisualStudioCode&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![](https://img.shields.io/badge/-Github_Action-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 
-### 💻 Work with
+![](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+
+
+#### 💻 Work with
 
 ![](https://img.shields.io/badge/-MacBook_Pro-000000?logo=apple&style=flat-square)
 ![](https://img.shields.io/badge/-Windows_10-0078D6?logo=microsoft&style=flat-square)
 ![](https://img.shields.io/badge/-Android12-3DDC84?logo=ubuntu&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/-Ubuntu_22_LTS-E95420?logo=ubuntu&style=flat-square&logoColor=white)
 
-### 📬 Where to find me
+#### 📬 Where to find me
 
 [![](https://img.shields.io/badge/-Email-C8202B?style=flat-square&logo=zoho&logoColor=white)](mailto:github@jipai.moe)
