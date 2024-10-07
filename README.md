@@ -66,7 +66,7 @@ I'm coding some interesting little things here.
 ![](https://img.shields.io/badge/-Github_Action-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 
-![](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/-Drizzle-2D3748?style=flat-square&logo=drizzle&logoColor=C5F74F)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
