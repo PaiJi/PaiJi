@@ -18,11 +18,16 @@
 </a>
 
 <a href="https://github.com/PaiJi">
-<img align="right" src="https://github-readme-stats-livid-mu.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=500&hide_border=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats-livid-mu.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=500&hide_border=true&hide_title=true&&include_all_commits=true" />
 </a>
 
-🥳 Nice to meet you!  
-I am a fullstack developer, coding some interesting little things here.
+#### PaiJi is:
+- Web Fullstack Developer
+- Translator
+- Ramen enthusiast
+
+I'm coding some interesting little things here.
+
 
 
 <br>
