@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/PaiJi">
-<img align="right" src="https://github-readme-stats-livid-mu.vercel.app/api?username=paiji&show_icons=true&theme=transparent&layout=compact&card_width=500&hide_border=true&hide_title=true&&include_all_commits=true" />
+<img align="right" src="https://github-status.jipai.moe" />
 </a>
 
 #### PaiJi is:
