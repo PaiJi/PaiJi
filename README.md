@@ -5,7 +5,7 @@
     <a href="https://knowledgebase.jipai.moe">knowledgebase</a> .
     <a href="https://www.jipai.moe/labs">projects</a> .
     <a href="https://twitter.com/jipairamen">twitter</a> .
-    <a href="https://bsky.app/profile/jipai.bsky.social">bluesky</a>
+    <a href="https://bsky.app/profile/jipai.moe">bluesky</a>
   </samp>
 </p>
 
