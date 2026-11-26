@@ -1,20 +1,16 @@
 <p align="center">
   <samp>
-    <a href="https://www.jipai.moe">me</a> .
-    <a href="https://blog.jipai.moe">blog</a> .
-    <a href="https://knowledgebase.jipai.moe">knowledgebase</a> .
-    <a href="https://www.jipai.moe/labs">projects</a> .
-    <a href="https://twitter.com/jipairamen">twitter</a> .
-    <a href="https://bsky.app/profile/jipai.moe">bluesky</a>
+    <a href="https://www.jipai.moe">me</a> ·
+    <a href="https://blog.jipai.moe">blog</a> ·
+    <a href="https://knowledgebase.jipai.moe">knowledgebase</a> ·
+    <a href="https://www.jipai.moe/labs">projects</a> ·
+    <a href="https://twitter.com/jipairamen">twitter</a>
   </samp>
 </p>
 
 
 
 ### Hi there 👋  
-<a href="https://github.com/PaiJi">
-<img src="https://wakatime.com/badge/user/71a00d57-dfa4-49b5-b409-9a2b8c0bcc88.svg?style=flat-square" />
-</a>
 
 <a href="https://github.com/PaiJi">
 <img align="right" src="https://github-status.jipai.moe" />
@@ -22,7 +18,6 @@
 
 #### PaiJi is:
 - Web Fullstack Developer
-- Translator
 - Ramen enthusiast
 
 I'm coding some interesting little things here.
